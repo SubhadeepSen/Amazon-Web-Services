@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "aws.s3.user.access.key",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.user.access.key'"
+  },
+  {
+    "name": "aws.s3.user.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.user.secret.key'"
+  }
+]}
